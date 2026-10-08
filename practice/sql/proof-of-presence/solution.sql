@@ -1,0 +1,7 @@
+SELECT
+    platform,
+    ROUND(1.0 * SUM(CASE WHEN opened = 1 THEN 1 ELSE 0 END) / COUNT(*), 2) AS confirmation_rate
+FROM push_notifs_2fa
+WHERE status = 'delivered'
+GROUP BY platform
+ORDER BY confirmation_rate DESC;

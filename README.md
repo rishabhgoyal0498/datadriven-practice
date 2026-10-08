@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/busy_shade_4244), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Proof of Presence](./practice/sql/proof-of-presence) | SQL | Medium | 2026-10-08 |
 | [First Time Learners Per Day](./practice/sql/first-time-learners-per-day) | SQL | Medium | 2026-10-08 |
 | [By What They Answer To](./practice/python/by-what-they-answer-to) | Python | Medium | 2026-10-07 |
 | [Top Repos by Successful Builds](./practice/sql/top-repos-by-successful-builds) | SQL | Medium | 2026-10-06 |
