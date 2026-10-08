@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/busy_shade_4244), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [By What They Answer To](./practice/python/by-what-they-answer-to) | Python | Medium | 2026-10-07 |
 | [Top Repos by Successful Builds](./practice/sql/top-repos-by-successful-builds) | SQL | Medium | 2026-10-06 |
 | [Suspected Bot Sessions](./practice/sql/suspected-bot-sessions) | SQL | Easy | 2026-10-06 |
 | [The Long Tail](./practice/sql/the-long-tail) | SQL | Medium | 2026-10-06 |
