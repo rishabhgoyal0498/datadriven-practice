@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/busy_shade_4244), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Between the Spaces](./practice/sql/between-the-spaces) | SQL | Medium | 2026-10-05 |
 | [Longest Running Pipeline](./practice/sql/longest-running-pipeline) | SQL | Medium | 2026-10-05 |
 
 <!-- datadriven:index:end -->
