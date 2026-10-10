@@ -1,6 +1,6 @@
 # busy_shade_4244's data engineering practice
 
-Scored work from [DataDriven](https://datadriven.io/u/busy_shade_4244), committed here as it is scored. Each folder holds the code exactly as submitted and the report it earned.
+Scored work from [DataDriven](https://datadriven.io/u/busy_shade_4244), committed here as it is scored. Each folder holds the work exactly as submitted and the report it earned.
 
 <!-- datadriven:index:start -->
 
@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/busy_shade_4244), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Average Accuracy by Framework](./practice/sql/average-accuracy-by-framework) | SQL | Medium | 2026-10-10 |
 | [The Address Surgeon](./practice/python/the-address-surgeon) | Python | Easy | 2026-10-08 |
 | [Char Profile](./practice/python/char-profile) | Python | Medium | 2026-10-08 |
 | [Proof of Presence](./practice/sql/proof-of-presence) | SQL | Medium | 2026-10-08 |
