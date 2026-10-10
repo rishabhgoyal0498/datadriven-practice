@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/busy_shade_4244), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Everything Said Twice](./practice/python/everything-said-twice) | Python | Easy | 2026-10-10 |
 | [Active Campaigns](./practice/sql/active-campaigns) | SQL | Easy | 2026-10-10 |
 | [Across the Aisles](./practice/sql/across-the-aisles) | SQL | Hard | 2026-10-10 |
 | [Average Accuracy by Framework](./practice/sql/average-accuracy-by-framework) | SQL | Medium | 2026-10-10 |
