@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/busy_shade_4244), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Active Campaigns](./practice/sql/active-campaigns) | SQL | Easy | 2026-10-10 |
 | [Across the Aisles](./practice/sql/across-the-aisles) | SQL | Hard | 2026-10-10 |
 | [Average Accuracy by Framework](./practice/sql/average-accuracy-by-framework) | SQL | Medium | 2026-10-10 |
 | [The Address Surgeon](./practice/python/the-address-surgeon) | Python | Easy | 2026-10-08 |
