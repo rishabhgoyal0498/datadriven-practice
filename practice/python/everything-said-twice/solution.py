@@ -1,6 +1,9 @@
 def word_counts(text: str) -> dict:
   out = {}
   for word in text.split():
-    out[word] = out.get(word,0)+1
+    if word in out:
+      out[word] +=1
+    else:
+      out[word] = 1
   return out
     
