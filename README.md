@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/busy_shade_4244), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Where You Stand](./practice/sql/where-you-stand) | SQL | Easy | 2026-10-19 |
 | [High-Spend 2025 Campaigns](./practice/sql/high-spend-year-1-campaigns) | SQL | Easy | 2026-10-16 |
 | [The Quiet Middle](./practice/sql/the-quiet-middle) | SQL | Easy | 2026-10-14 |
 | [The First Encounter](./practice/python/the-first-encounter) | Python | Easy | 2026-10-12 |
