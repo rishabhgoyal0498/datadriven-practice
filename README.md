@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/busy_shade_4244), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Distinct Product Categories](./practice/sql/distinct-product-categories) | SQL | Easy | 2026-10-21 |
 | [Where You Stand](./practice/sql/where-you-stand) | SQL | Easy | 2026-10-19 |
 | [High-Spend 2025 Campaigns](./practice/sql/high-spend-year-1-campaigns) | SQL | Easy | 2026-10-16 |
 | [The Quiet Middle](./practice/sql/the-quiet-middle) | SQL | Easy | 2026-10-14 |
