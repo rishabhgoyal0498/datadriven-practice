@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/busy_shade_4244), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Stock Status](./practice/sql/stock-status) | SQL | Easy | 2026-10-28 |
 | [Error Category Breakdown](./practice/sql/error-category-breakdown) | SQL | Hard | 2026-10-27 |
 | [Carrying Forward](./practice/python/carrying-forward) | Python | Medium | 2026-10-24 |
 | [All Told](./practice/python/all-told) | Python | Easy | 2026-10-24 |
