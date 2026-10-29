@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/busy_shade_4244), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Dominant Signal](./practice/python/the-dominant-signal) | Python | Easy | 2026-10-29 |
 | [Where the Lines Break](./practice/python/where-the-lines-break) | Python | Easy | 2026-10-29 |
 | [The Relentless Searchers](./practice/sql/the-relentless-searchers) | SQL | Medium | 2026-10-28 |
 | [The Longest Take](./practice/sql/the-longest-take) | SQL | Easy | 2026-10-28 |
