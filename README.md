@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/busy_shade_4244), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Tag Analyst](./practice/python/the-tag-analyst) | Python | Medium | 2026-10-29 |
 | [Greeting Formatter Class](./practice/python/greeting-formatter-class) | Python | Easy | 2026-10-29 |
 | [The Dominant Signal](./practice/python/the-dominant-signal) | Python | Easy | 2026-10-29 |
 | [Where the Lines Break](./practice/python/where-the-lines-break) | Python | Easy | 2026-10-29 |
