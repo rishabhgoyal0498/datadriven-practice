@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/rishabgoyal0498), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Buried Digits](./practice/sql/buried-digits) | SQL | Medium | 2026-11-14 |
 | [Regional Sales Growth QoQ](./practice/sql/regional-sales-growth-qoq) | SQL | Hard | 2026-11-14 |
 | [Follow the Money](./practice/sql/follow-the-money) | SQL | Easy | 2026-11-14 |
 | [The Tag Analyst](./practice/python/the-tag-analyst) | Python | Medium | 2026-10-29 |
