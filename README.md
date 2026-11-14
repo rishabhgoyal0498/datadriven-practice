@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/rishabgoyal0498), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Follow the Money](./practice/sql/follow-the-money) | SQL | Easy | 2026-11-14 |
 | [The Tag Analyst](./practice/python/the-tag-analyst) | Python | Medium | 2026-10-29 |
 | [Greeting Formatter Class](./practice/python/greeting-formatter-class) | Python | Easy | 2026-10-29 |
 | [The Dominant Signal](./practice/python/the-dominant-signal) | Python | Easy | 2026-10-29 |
