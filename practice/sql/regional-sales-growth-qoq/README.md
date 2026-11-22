@@ -2,7 +2,7 @@
 
 *Quarter-over-quarter growth. Region by region.*
 
-[SQL · Medium · on DataDriven](https://datadriven.io/problems/regional_sales_growth_qoq)
+[SQL · Hard · on DataDriven](https://datadriven.io/problems/regional_sales_growth_qoq)
 
 ## How it went
 
